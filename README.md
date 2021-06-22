@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prabinay
-- 👀 I’m interested in Web Development, AI, Machine learning. 
-- 🌱 I’m currently studying software Engineering. 
+- 👀 I’m interested in Web Designing, Web Development, Game development. 
+- 🌱 I’m currently studying Software Engineering. 
 
 <!---
 - 💞️ I’m looking to collaborate on ...
