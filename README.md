@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web Designing, Web Development, Game development, AI. 
 - 🌱 I’m currently studying Software Engineering. 
 - 📫 How to reach me: <a href = "mailto: prabiney.garcia.23@gmail.com"> Email me here!</a>
-- ⚡ Fun fact: I love to play Guitar/ Ukelele, and watch movies.
+- ⚡ Fun fact: I love to play Guitar/ Ukelele, write blogs, and watch movies.
 <!---
 - 💞️ I’m looking to collaborate on ...
 prabinay/prabinay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
