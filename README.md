@@ -1,5 +1,7 @@
 ### Hello, Prab1n here!!
 
+![](https://komarev.com/ghpvc/?username=prabinay&color=brightgreen&style=flat-square)
+
 - 👋 I’m an aspiring web developer. 
 - 👀 I’m interested in Web Designing, UI / UX Design, Web Development, Game development, AI. 
 - 🌱 I’m currently studying Software Engineering. 
