@@ -5,7 +5,7 @@
 - 🌱 I’m currently studying Software Engineering. 
 - 📫 How to reach me: <a href = "mailto: prabiney.garcia.23@gmail.com"> Email me here!</a>
 - ⚡ Fun fact: I love to play Guitar/ Ukelele, write blogs, & watch movies.\
-- Read my blogs here! [Prabin/Medium]
+- Read my blogs here! [Prabin@Medium]
 <!---
 - 💞️ I’m looking to collaborate on ...
 prabinay/prabinay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 [instagram]: https://www.instagram.com/__octobot__/
 [linkedin]: https://www.linkedin.com/in/prabin-thapa-magar-0a5512198/
 [facebook]: https://www.facebook.com/prabineyxd/
-[Prabin/Medium]: https://prab1n-thapa-magar.medium.com/
+[Prabin@Medium]: https://prab1n-thapa-magar.medium.com/
