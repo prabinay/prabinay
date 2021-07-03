@@ -1,5 +1,6 @@
 ### <h1>Hello, Prab1n here!!</h1>
 
+<!-- Profile hit counter :-->
 ![](https://komarev.com/ghpvc/?username=prabinay&color=brightgreen&style=flat-square)
 
 - 👋 I’m an aspiring web developer. 
@@ -17,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ### <h2>Connect With Me </h2>
 
+<!-- Social Medias  :-->
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
