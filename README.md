@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=prabinay&color=brightgreen&style=flat-square)
 
 - 👋 I’m an aspiring App developer. 
-- 👀 I’m interested in Web Development, and App Development.
+- 👀 I’m interested in Web Development, App Development, and DevOps.
 - 🌱 I’m currently studying Software Engineering. 
 - 📫 How to reach me: <a href = "mailto: prabiney.garcia.23@gmail.com"> Email me here!</a>
 - ⚡ Fun fact: I love to play Guitar/ Ukelele,  watch movies, & write blogs.
