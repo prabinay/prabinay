@@ -1,9 +1,7 @@
 ### <h1>Hello, Prab1n here!!</h1>
 
 <!-- Profile hit counter :-->
-![](https://komarev.com/ghpvc/?username=prabinay&color=brightgreen&style=flat-square)
-
-[![Total Stars](https://img.shields.io/github/stars/prabinay?style=social)](https://github.com/prabinay?tab=repositories)
+![](https://komarev.com/ghpvc/?username=prabinay&color=brightgreen&style=flat-square) [![Total Stars](https://img.shields.io/github/stars/prabinay?style=social)](https://github.com/prabinay?tab=repositories)
 
 - 👋 I’m an aspiring App developer. 
 - 👀 I’m interested in Web Development, App Development, and DevOps.
