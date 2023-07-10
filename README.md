@@ -3,7 +3,7 @@
 <!-- Profile hit counter :-->
 ![](https://komarev.com/ghpvc/?username=prabinay&color=brightgreen&style=flat-square) [![Total Stars](https://img.shields.io/github/stars/prabinay?style=social)](https://github.com/prabinay?tab=repositories)
 
-- 👋 I’m an aspiring DevOps developer. 
+- 👋 I’m an aspiring DevOps engineer. 
 - 👀 I’m interested in DevOps, Web Development, and App Development.
 - 🌱 I’m currently studying Software Engineering. 
 - 📫 How to reach me: <a href = "mailto: prabiney.garcia.23@gmail.com"> Email me here!</a>
