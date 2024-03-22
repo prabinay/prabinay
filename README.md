@@ -5,7 +5,6 @@
 
 - 👋 I’m an associate Support Engineer. 
 - 👀 I’m interested in System, Web servers, and Fintech.
--  
 - 📫 How to reach me: <a href = "mailto: prabiney.garcia.23@gmail.com"> Email me here!</a>
 - ⚡ Fun fact: I love to play Guitar/ Ukelele,  watch movies, & write blogs.
 - 📕 Read my blogs here! [Prabin@Medium]
