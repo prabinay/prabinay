@@ -3,9 +3,9 @@
 <!-- Profile hit counter :-->
 ![](https://komarev.com/ghpvc/?username=prabinay&color=brightgreen&style=flat-square) [![Total Stars](https://img.shields.io/github/stars/prabinay?style=social)](https://github.com/prabinay?tab=repositories)
 
-- 👋 I’m an aspiring DevOps Engineer. 
-- 👀 I’m interested in DevOps, Web Development, and App Development.
-- 🌱 I’m currently studying Software Engineering. 
+- 👋 I’m an associate Support Engineer. 
+- 👀 I’m interested in System, Web servers, and Fintech.
+-  
 - 📫 How to reach me: <a href = "mailto: prabiney.garcia.23@gmail.com"> Email me here!</a>
 - ⚡ Fun fact: I love to play Guitar/ Ukelele,  watch movies, & write blogs.
 - 📕 Read my blogs here! [Prabin@Medium]
